@@ -62,5 +62,9 @@
    - If you have any questions or need support, please contact:
      - Email: j.chukwuony@alustudent.com
      - GitHub: [[GitHub Profile](https://github.com/Justice00000)]
+    
+## **YouTube Demo**
+Check out the video demonstration of the app here:  
+[Diabetes App Demo - YouTube](https://youtu.be/upg3Fspaols?si=0hiw7rHIyrYiiJMO)
 
 Thank you for using the Diabetes App!
